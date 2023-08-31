@@ -1,0 +1,23 @@
+.main
+{
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  h2{
+    font-size: 3rem;
+  }
+  .role{
+    font-size: 2rem;
+    margin-bottom: 100px;
+  }
+  .button{
+    padding: 20px 40px;
+    background-color:rgb(54, 162, 235);
+    font-weight: 600;
+    cursor: pointer;
+    margin-bottom: 20px;
+
+  }
+}
